@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-training/02-experiment-tracking/mlruns/596010216358050578/d50a1ad15d644bb59932732a78dca2bf/artifacts
+end_time: 1748517018409
+entry_point_name: ''
+experiment_id: '596010216358050578'
+lifecycle_stage: active
+run_id: d50a1ad15d644bb59932732a78dca2bf
+run_name: amazing-grub-542
+run_uuid: d50a1ad15d644bb59932732a78dca2bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748517018401
+status: 4
+tags: []
+user_id: codespace

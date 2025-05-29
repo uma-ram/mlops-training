@@ -20,6 +20,8 @@ def load_pickle(filename: str):
 )
 def run_train(data_path: str):
 
+
+    mlflow.set_tracking_uri("sqlite:///mlflow.db") #The name of the database to use
     mlflow.set_experiment("homework_week_2")
     mlflow.sklearn.autolog()
 
