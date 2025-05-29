@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-training/02-experiment-tracking/mlruns/596010216358050578/3ff7242666174375afa44abc42c57a0f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '596010216358050578'
+lifecycle_stage: active
+run_id: 3ff7242666174375afa44abc42c57a0f
+run_name: ambitious-cat-116
+run_uuid: 3ff7242666174375afa44abc42c57a0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748503407158
+status: 1
+tags: []
+user_id: codespace

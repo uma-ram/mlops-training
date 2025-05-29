@@ -3,6 +3,7 @@ import pickle
 import click
 import pandas as pd
 
+
 from sklearn.feature_extraction import DictVectorizer
 
 
